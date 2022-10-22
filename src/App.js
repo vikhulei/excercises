@@ -7,12 +7,12 @@ import "./styles.css";
 // import Flex from "./components/MDN/flex/Flex.js";
 
 export default function App() {
-  // const handleClick = (e) => {
-  //   console.log(e.detail);
-  // };
-  return (
-    <div className="App">
-      {/* <button onDoubleClick={handleClick}>Test me</button> */}
-    </div>
-  );
+  return <div></div>;
 }
+
+{
+  /* <button onDoubleClick={handleClick}>Test me</button> */
+}
+// const handleClick = (e) => {
+//   console.log(e.detail);
+// };
