@@ -5,9 +5,14 @@ import "./styles.css";
 // import SelectElement from "./components/Select";
 // import Array_Objects from "./components/Arrays_Objects";
 // import Flex from "./components/MDN/flex/Flex.js";
+import PizzaMenu from "./components/02_menus/01_pizza_menu/PizzaMenu";
 
 export default function App() {
-  return <div>dsdsd</div>;
+  return (
+    <div>
+      <PizzaMenu />
+    </div>
+  );
 }
 
 {
